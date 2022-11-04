@@ -1,0 +1,65 @@
+.header h3{
+    text-align: center;
+}
+.header{
+    background-color: cadetblue;
+    margin: 10px 0px;
+    padding: 20px;
+}
+.datalist{
+    display: flex;
+    justify-content: center;
+}
+#datalist1,
+#datalist2{
+    width: 600px;
+    margin-top: 20px;
+}
+
+.calculateBtn{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.btn_{
+    background-color: cadetblue;
+    width: 600px;
+    font-size:18px;
+    font-weight: 400;
+    border: 1px solid cadetblue;
+    border-radius:5px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.btn_:hover{
+    background-color: white;
+    transition: 0.3s;
+    border: 1px solid cadetblue;
+}
+#info_text{
+    width: 600px;
+    border: 2px solid cadetblue;
+    justify-content: center;
+    display: flex;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.amount{
+    display: flex;
+    justify-content: center;
+
+}
+.form-control{
+    width: 600px;
+    margin-top: 20px;
+}
+
